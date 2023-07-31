@@ -1,6 +1,6 @@
 # ToDo App Project
 
-#Getting Started with ToDo App
+# Getting Started with ToDo App
 
 Available Scripts
 In the project directory, you can run:
