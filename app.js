@@ -8,7 +8,7 @@ app.set('view engine', 'ejs');
 
 app.use(bodyParse.urlencoded({extended:true}));
 app.use(express.static('public'));
-const items=["Buy Food","Cook Food","Eat Food"];
+const items=["Buy Groceries","Cook Food","Eat Food"];
 const workItem=[];
 const day = date.getDate();
 //day=date.getDay();
